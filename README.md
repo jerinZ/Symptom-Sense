@@ -1,4 +1,4 @@
-**SYMPTOM SENSE**
+## **SYMPTOM SENSE**
 
 **Symptom Sense** is a responsive, interactive web application designed to help users quickly explore possible medical conditions based on selected symptoms. Developed using modern front-end technologies, the app provides an intuitive user interface, smooth animations, and a glassmorphism design aesthetic for an engaging user experience.
 
