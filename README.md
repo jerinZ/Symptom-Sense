@@ -33,7 +33,7 @@ The main goal of **Symptom Sense** is to raise awareness and encourage early att
 
 ---
 
-## 💻 Technologies Used
+##   Technologies Used
 
 | Technology | Role |
 |------------|------|
@@ -44,7 +44,7 @@ The main goal of **Symptom Sense** is to raise awareness and encourage early att
 
 ---
 
-## 📱 How to Use
+##   How to Use
 
 1. Visit the live site: [Symptom Sense](https://jerinz.github.io/Symptom-Sense/)
 2. Select a symptom from the interactive card interface.
@@ -54,7 +54,7 @@ The main goal of **Symptom Sense** is to raise awareness and encourage early att
 
 ---
 
-## 🚀 Deployment
+##   Deployment
 
 This project is hosted via **GitHub Pages** for free and is accessible from any modern browser and device.
 
@@ -69,24 +69,24 @@ To deploy your own version:
 
 ---
 
-## 📌 Future Improvements
+##   Future Improvements
 
-- ✅ Add more symptoms and condition data
-- ✅ Integrate AI-based suggestions (optional future scope)
-- ✅ Improve accessibility and keyboard navigation
-- ✅ Add dark/light mode toggle
+-   Add more symptoms and condition data
+-   Integrate AI-based suggestions (optional future scope)
+-   Improve accessibility and keyboard navigation
+-   Add dark/light mode toggle
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 
-Developed with 💙 by **Jerin Zacharia**  
+Developed by **Jerin Zacharia**  
 Connect with me on [GitHub](https://github.com/jerinZ)
 
 ---
